@@ -130,7 +130,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #6bff89;
+  background-color: #6bf0ff;
   filter: blur(10vmin);
 }
 .flower__leaf {
@@ -172,7 +172,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #ef3232;
 }
 .flower__white-circle::after {
   content: "";
